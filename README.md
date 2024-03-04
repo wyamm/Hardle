@@ -1,2 +1,2 @@
-# Wordle
-Wordle in terminal
+# Hardle
+Hard wordle in terminal
